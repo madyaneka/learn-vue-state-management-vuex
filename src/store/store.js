@@ -3,7 +3,7 @@ import Vuex from 'vuex'
 import counter from './modules/counter'
 
 import actions from './actions'
-import * as mutations from './mutations'
+import mutations from './mutations'
 import getters from './getters'
 
 Vue.use(Vuex)
