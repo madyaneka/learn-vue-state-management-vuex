@@ -4,7 +4,7 @@ import counter from './modules/counter'
 
 import actions from './actions'
 import * as mutations from './mutations'
-import * as getters from './getters'
+import getters from './getters'
 
 Vue.use(Vuex)
 
